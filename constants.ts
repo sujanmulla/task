@@ -1,0 +1,6 @@
+export const CONSTANTS={
+    ROLES:{
+        ANDROID_DEVELOPER:"ANDROID-DEVELOPER",
+        WEB_DEVELOPER:"WEB-DEVELOPER"
+    }
+}
